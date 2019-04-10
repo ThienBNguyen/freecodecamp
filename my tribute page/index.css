@@ -1,0 +1,52 @@
+
+body{
+   font-family: "Times New Roman", Times, serif;
+   background: #66CDAA; 
+   text-align: center;
+   
+}
+#main-page{
+	color: #008B8B; 
+	background: #AFEEEE;
+	width: 80%;
+	display: inline-block;
+	margin: 75px auto 75px auto;
+}
+#title{
+	font-size: 64px;
+	text-align: center;
+}
+#main-page p{
+	text-align: center; 
+}
+#img-div{
+	display: block;
+	background: white;
+	width: 35%;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image{
+    margin: 30px 0 20px 0;
+    width: 90%;
+}
+#img-caption{
+	display: inline-block;
+}
+#tribute-info{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul{
+	display: inline-block;
+	text-align: left;
+}	
+#tribute-link{
+  color: #63E9DC;
+  text-decoration: none; 
+}
+#tribute-link:hover {
+  color: blue;
+}
